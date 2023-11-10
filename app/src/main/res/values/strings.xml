@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CRD1</string>
+    <string name="cantidadT">Cantidad:</string>
+    <string name="totalP">Total:</string>
+    <string name="nombre">Nombre</string>
+    <string name="precio">Precio</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="carrito">Anydir al carrito</string>
+</resources>
